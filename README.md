@@ -1,17 +1,15 @@
 <h1 align="center">Hey Everyone! 👋, I'm Kevin Kipkurui</h1>
-<p align="center"></p>
 <h3 align="center">A passionate FullStack Web Developer from Kenya</h3>
-<p align="left"> <img src="[https://giphy.com/embed/pOEbLRT4SwD35IELiQ](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" width="100%" height="100%"></p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kipkuruiyegon&label=Profile%20views&color=0e75b6&style=flat" alt="kipkuruiyegon](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kipkuruiyegon&label=Profile%20views&color=0e75b6&style=flat" alt="kipkuruiyegon" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django and RESTFUL APIs**
 
-- 🌱 I’m currently learning **ReactJS,REST/SOAP/APIs,Data Science**
+- 🌱 I’m currently learning **ReactJS,APIs**
 
-- 👯 I’m looking to collaborate on **FullStack/IT Services Projects**
+- 👯 I’m looking to collaborate on **FullStack & API Projects**
 
-- 💬 Ask me about **IT Services,Backend Devopment,Web/Software Development**
+- 💬 Ask me about **IT Services,Backend Devopment,WebDevelopment**
 
 - 📫 How to reach me **kevinkipkurui1@gmail.com**
 
