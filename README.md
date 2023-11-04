@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone! 👋, I'm Kevin Kipkurui</h1>
-<p align="center"><img src="https://img.freepik.com/premium-photo/wireless-network-connection-city_64030-302.jpg?w=1380"></p>
+<p align="center"></p>
 <h3 align="center">A passionate FullStack Web Developer from Kenya</h3>
-<p align="left"> <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ">via GIPHY</a></p></p>
+<p align="left"> <img src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="100%" height="100%"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipkuruiyegon&label=Profile%20views&color=0e75b6&style=flat" alt="kipkuruiyegon" /> </p>
 
