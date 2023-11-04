@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipkuruiyegon&label=Profile%20views&color=0e75b6&style=flat" alt="kipkuruiyegon" /> </p>
 
-- 🔭 I’m currently working on **Django and RESTFUL APIs**
+- 🔭 I’m currently working on **Django**
 
 - 🌱 I’m currently learning **ReactJS,APIs**
 
 - 👯 I’m looking to collaborate on **FullStack & API Projects**
 
-- 💬 Ask me about **IT Services,Backend Devopment,WebDevelopment**
+- 💬 Ask me about **IT Services,Backend Development,WebDevelopment**
 
 - 📫 How to reach me **kevinkipkurui1@gmail.com**
 
