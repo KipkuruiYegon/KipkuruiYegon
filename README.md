@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kevin Kipkurui</h1>
+<h1 align="center">Hey Everyone 👋, I'm Kevin Kipkurui</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipkuruiyegon&label=Profile%20views&color=0e75b6&style=flat" alt="kipkuruiyegon" /> </p>
 
-- 🔭 I’m currently working on **Django and RESTFUL APIs**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **ReactJS,APIs**
+- 🌱 I’m currently learning **ReactJS,REST/SOAP/APIs**
 
-- 👯 I’m looking to collaborate on **FullStack & API Projects**
+- 👯 I’m looking to collaborate on **FullStack/IT Services Projects**
 
-- 💬 Ask me about **IT Services,Backend Devopment,WebDevelopment**
+- 💬 Ask me about **IT Services,Backend Devopment,Web/Software Development**
 
 - 📫 How to reach me **kevinkipkurui1@gmail.com**
 
