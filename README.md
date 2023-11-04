@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone! 👋, I'm Kevin Kipkurui</h1>
-<h3 align="center">A passionate FullStack Web Developer from Kenya</h3>
+<h3 align="center">FullStack Web Developer from Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
