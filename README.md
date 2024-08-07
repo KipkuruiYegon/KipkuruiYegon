@@ -1,4 +1,4 @@
-<h1 class="text-primary" align="center">Hey Everyone! 👋, I'm Kevin Kipkurui</h1>
+<!-- <h1 class="text-primary" align="center">Hey Everyone! 👋, I'm Kevin Kipkurui</h1> -->
 <h3 align="center">FullStack Web Developer / Graphic Designer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -27,4 +27,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kipkuruiyegon&show_icons=true&locale=en" alt="kipkuruiyegon" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kipkuruiyegon&" alt="kipkuruiyegon" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kipkuruiyegon&" alt="kipkuruiyegon" /></p> -->
